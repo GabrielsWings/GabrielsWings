@@ -1,15 +1,15 @@
-# 👋 Hello, I'm Gabriel
+# Hello, I'm Gabriel
 
 I’m a junior at the University of Nebraska Omaha pursuing a **Bachelor’s in Computer Science**, with a strong focus on **Cybersecurity**. I’m currently building hands-on experience through home lab projects and actively preparing to transition into the cybersecurity field.
 
 ---
 
-## 🎯 Objective
+## Objective
 Motivated to pivot into cybersecurity and gain real-world experience in a **Security Operations Center (SOC)** environment — starting in a **Tier 1 Analyst role** or other entry-level cybersecurity position where I can continue learning and contribute to protecting critical systems.
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 | Category           | Tools / Technologies                                  | Associated Project |
 |--------------------|------------------------------------------------------|--------------------|
@@ -20,13 +20,13 @@ Motivated to pivot into cybersecurity and gain real-world experience in a **Secu
 
 ---
 
-## 🧠 Certifications
+## Certifications
 
 *To be added soon.*
 
 ---
 
-## 📂 Projects
+## Projects
 
 | Project | Description | Link |
 |--------|-------------|------|
@@ -34,7 +34,7 @@ Motivated to pivot into cybersecurity and gain real-world experience in a **Secu
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - **Email**: gjkostman@gmail.com  
 - **LinkedIn**: https://www.linkedin.com/in/gabriel-kostman-20428136b/
