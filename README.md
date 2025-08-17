@@ -29,7 +29,7 @@ Motivated to pivot into cybersecurity and gain real-world experience in a **Secu
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **Cybersecurity Home Lab** | Virtualized environment using Kali + Metasploitable2 for penetration testing practice | [https://github.com/GabrielsWings/cybersecurity-homelab](https://github.com/GabrielsWings/CS-Home-Lab-Setup) |
+| **Cybersecurity Home Lab** | Virtualized environment using Kali + Metasploitable2 for network reconnaissance and Nmap vulnerability scanning practice | [https://github.com/GabrielsWings/cybersecurity-homelab](https://github.com/GabrielsWings/CS-Home-Lab-Setup) |
 
 ---
 
