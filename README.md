@@ -13,9 +13,9 @@ Motivated to pivot into cybersecurity and gain real-world experience in a **Secu
 
 | Category           | Tools / Technologies                                  | Associated Project |
 |--------------------|------------------------------------------------------ |--------------------|
-| **Networking**     | Nmap, TCP/IP, Host-Only Networks                      | https://github.com/GabrielsWings/cybersecurity-homelab |
-| **Endpoint**       | Kali Linux, Metasploitable2                           | https://github.com/GabrielsWings/cybersecurity-homelab |
-| **Offensive Tools**| (Exploit practice not yet performed)                  | https://github.com/GabrielsWings/cybersecurity-homelab |
+| **Networking**     | Nmap, TCP/IP, Host-Only Networks                      | [https://github.com/GabrielsWings/cybersecurity-homelab](https://github.com/GabrielsWings/CS-Home-Lab-Setup) |
+| **Endpoint**       | Kali Linux, Metasploitable2                           | [https://github.com/GabrielsWings/cybersecurity-homelab](https://github.com/GabrielsWings/CS-Home-Lab-Setup) |
+| **Offensive Tools**| (Exploit practice not yet performed)                  | [https://github.com/GabrielsWings/cybersecurity-homelab](https://github.com/GabrielsWings/CS-Home-Lab-Setup) |
 
 ---
 
@@ -29,7 +29,7 @@ Motivated to pivot into cybersecurity and gain real-world experience in a **Secu
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **Cybersecurity Home Lab** | Virtualized environment using Kali + Metasploitable2 for penetration testing practice | https://github.com/GabrielsWings/cybersecurity-homelab |
+| **Cybersecurity Home Lab** | Virtualized environment using Kali + Metasploitable2 for penetration testing practice | [https://github.com/GabrielsWings/cybersecurity-homelab](https://github.com/GabrielsWings/CS-Home-Lab-Setup) |
 
 ---
 
