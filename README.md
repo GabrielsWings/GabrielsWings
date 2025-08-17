@@ -12,11 +12,10 @@ Motivated to pivot into cybersecurity and gain real-world experience in a **Secu
 ## Skills & Tools
 
 | Category           | Tools / Technologies                                  | Associated Project |
-|--------------------|------------------------------------------------------|--------------------|
-| **Networking**     | Nmap, Wireshark, TCP/IP, Host-Only Networks           | https://github.com/GabrielsWings/cybersecurity-homelab |
-| **Endpoint**       | Kali Linux, Windows 11, Metasploitable2               | https://github.com/GabrielsWings/cybersecurity-homelab |
-| **SIEM**           | (Coming Soon) Splunk / Wazuh (Lab in progress)        | *(In Progress)* |
-| **Offensive Tools**| Metasploit Framework, Burp Suite                      | https://github.com/GabrielsWings/cybersecurity-homelab |
+|--------------------|------------------------------------------------------ |--------------------|
+| **Networking**     | Nmap, TCP/IP, Host-Only Networks                      | https://github.com/GabrielsWings/cybersecurity-homelab |
+| **Endpoint**       | Kali Linux, Metasploitable2                           | https://github.com/GabrielsWings/cybersecurity-homelab |
+| **Offensive Tools**| (Exploit practice not yet performed)                  | https://github.com/GabrielsWings/cybersecurity-homelab |
 
 ---
 
