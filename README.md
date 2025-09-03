@@ -11,28 +11,29 @@ Motivated to pivot into cybersecurity and gain real-world experience in a **Secu
 
 ## Skills & Tools
 
-| Category           | Tools / Technologies                                  | Associated Project |
-|--------------------|------------------------------------------------------ |--------------------|
-| **Networking**     | Nmap, TCP/IP, Host-Only Networks                      | [https://github.com/GabrielsWings/cybersecurity-homelab](https://github.com/GabrielsWings/CS-Home-Lab-Setup) |
-| **Endpoint**       | Kali Linux, Metasploitable2                           | [https://github.com/GabrielsWings/cybersecurity-homelab](https://github.com/GabrielsWings/CS-Home-Lab-Setup) |
-| **Offensive Tools**| (Exploit practice not yet performed)                  | [https://github.com/GabrielsWings/cybersecurity-homelab](https://github.com/GabrielsWings/CS-Home-Lab-Setup) |
-
+| Category                | Tools / Technologies                                  | Associated Project |
+|-------------------------|------------------------------------------------------ |--------------------|
+| **Networking**          | Nmap, TCP/IP, Host-Only Networks                      | [https://github.com/GabrielsWings/cybersecurity-homelab](https://github.com/GabrielsWings/CS-Home-Lab-Setup) |
+| **Endpoint**            | Kali Linux, Metasploitable2                           | [https://github.com/GabrielsWings/cybersecurity-homelab](https://github.com/GabrielsWings/CS-Home-Lab-Setup) |
+| **Offensive Tools**     | (Exploit practice not yet performed)                  | [https://github.com/GabrielsWings/cybersecurity-homelab](https://github.com/GabrielsWings/CS-Home-Lab-Setup) |
+| **Security Monitoring** | Wazuh SIEM, Log Analysis, Event Detection             | [https://github.com/GabrielsWings/SIEM-Lab-Alerting](https://github.com/GabrielsWings/SIEM-Lab-Alerting)     |
+| **Malware Analysis**    | FLARE VM, REMnux, Isolated Network Environments       | (Coming Soon)
 ---
 
 ## Certifications
 
-*To be added soon.*
+Coursera Google Cyber Security Certificate
 
 ---
 
 ## Projects
 
-| Project | Description | Link |
-|--------|-------------|------|
-| **Cybersecurity Home Lab** | Virtualized environment using Kali + Metasploitable2 for network reconnaissance and Nmap vulnerability scanning practice | [https://github.com/GabrielsWings/cybersecurity-homelab](https://github.com/GabrielsWings/CS-Home-Lab-Setup) |
-
----
-
+| Project                     | Description                                                                                                              | Link |
+|-----------------------------|--------------------------------------------------------------------------------------------------------------------------|------|
+| **Cybersecurity Home Lab**  | Virtualized environment using Kali + Metasploitable2 for network reconnaissance and Nmap vulnerability scanning practice | [https://github.com/GabrielsWings/cybersecurity-homelab](https://github.com/GabrielsWings/CS-Home-Lab-Setup) |
+| **SIEM Log Analysis Lab**   | Setup and configured Wazuh SIEM for log collection, rule creation, and security event monitoring                         | [https://github.com/GabrielsWings/SIEM-Lab-Alerting](https://github.com/GabrielsWings/SIEM-Lab-Alerting)     | 
+| **Malware Analysis Lab**    | Built an isolated malware analysis environment using FLARE VM (Windows) and REMnux VM (Linux)                            | Coming Soon
+|
 ## Connect With Me
 
 - **Email**: gjkostman@gmail.com  
